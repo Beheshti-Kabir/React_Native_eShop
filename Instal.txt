@@ -1,0 +1,5 @@
+-- npm install
+-- npx react-native link
+-- npm install react-native-swiper
+-- npm install scheduler 
+
